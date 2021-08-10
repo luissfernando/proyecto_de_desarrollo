@@ -1,6 +1,3 @@
 <resources>
-    <string name="app_name">inventario</string>
-    <string name="enviar">enviar</string>
-    <string name="tv1">inventario</string>
-    <string name="tv2">inventario</string>
+    <string name="app_name">Login</string>
 </resources>
